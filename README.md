@@ -1,6 +1,6 @@
 [📵Why you should NOT use your smartphone if you have access to a PC or laptop.](https://youtu.be/VFns39RXPrU)
 
-[Thinking on migrating to linux?🛑 read this list of facts](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/linux.md) ⭐ 212 | 🐛 0 | 📅 2026-07-15
+[Thinking on migrating to linux?🛑 read this list of facts](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/linux.md) ⭐ 212 | 🐛 0 | 📅 2026-08-15
 
 <br>
 <br>
@@ -85,7 +85,7 @@ No more mobile cracks I'm afraid: https://www.reddit.com/r/revancedapp/comments/
 If you use the web version just use ublock origins and you are done! (good for android phones firefox+ublock)
 ```
 
-[MY ADVICE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/spoti) ⭐ 212 | 🐛 0 | 📅 2026-07-15
+[MY ADVICE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/spoti) ⭐ 212 | 🐛 0 | 📅 2026-08-15
 
 ### 2- Youtube + ad blocker + sponsorblock (android & PC)
 
@@ -95,7 +95,7 @@ Use: https://github.com/revanced/                         -for android.
 Use: Librewolf. Get extensions: https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search  &  https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search  -for PC
 ```
 
-[READ MORE: Why are you still using proprietary Youtube app?](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/whytheapp) ⭐ 212 | 🐛 0 | 📅 2026-07-15
+[READ MORE: Why are you still using proprietary Youtube app?](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/whytheapp) ⭐ 212 | 🐛 0 | 📅 2026-08-15
 
 ### 3- Where do I download clean games?
 
@@ -114,9 +114,9 @@ Use: https://vsetop.org/games/     -Russian repacks on torrent. Nowadays, its li
 GET YOUR GAMES NOW: https://gog-games.to/   - IT WILL BE SHUT DOWN IN SEPTEMBER. If you donated, surprise! you have been scammed as your funds will go to torrminator and they will not know who the fuck you are, you will need an account there and become another drop in the ocean. - ♥♥♥ /irony 🤣 
 ```
 
-[WHY ARE GAMES SO BAD LATELY, DAD? -LONG STORY MY BOY...](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/AI-CHAT.md) ⭐ 212 | 🐛 0 | 📅 2026-07-15
+[WHY ARE GAMES SO BAD LATELY, DAD? -LONG STORY MY BOY...](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/AI-CHAT.md) ⭐ 212 | 🐛 0 | 📅 2026-08-15
 
-[READ MORE ABOUT FITGIRL'S REPACKS](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/fitgirl) ⭐ 212 | 🐛 0 | 📅 2026-07-15
+[READ MORE ABOUT FITGIRL'S REPACKS](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/fitgirl) ⭐ 212 | 🐛 0 | 📅 2026-08-15
 
 ### 4- Need to unlock DLCs on legit games or download Steam clean releases for manual cracking.
 
@@ -129,7 +129,7 @@ Use: https://github.com/KaladinDMP/ARMGDDN-Autocracker-OG-GSE to "manually apply
 OR use: https://github.com/SteamAutoCracks/Steam-auto-crack 
 ```
 
-[READ MORE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/csrinru) ⭐ 212 | 🐛 0 | 📅 2026-07-15
+[READ MORE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/csrinru) ⭐ 212 | 🐛 0 | 📅 2026-08-15
 
 ### 5- I need console game ROMS
 
@@ -156,7 +156,7 @@ Use: https://github.com/Atmosphere-NX/Atmosphere  - Open source 'Ntendo' OS.
 Use: https://github.com/HamletDuFromage/aio-switch-updater  - Updater app (I think it is outdated by now) Requires the console "liberated".
 ```
 
-[MY ADVICE IF YOU STILL DON'T HAVE A SWITCH](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/switch) ⭐ 212 | 🐛 0 | 📅 2026-07-15
+[MY ADVICE IF YOU STILL DON'T HAVE A SWITCH](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/switch) ⭐ 212 | 🐛 0 | 📅 2026-08-15
 
 ### 7- Need advanced tools for my switch games.
 
@@ -240,7 +240,7 @@ Use: https://rutracker.org/forum/index.php (TORRENTS)
 
 ```
 
-[More on "monochrome" app current state...](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/monochrome.md) ⭐ 212 | 🐛 0 | 📅 2026-07-15
+[More on "monochrome" app current state...](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/monochrome.md) ⭐ 212 | 🐛 0 | 📅 2026-08-15
 
 ### 18- Where do I get ARLs for deemix?
 
@@ -372,7 +372,7 @@ Use: https://gitlab.gnome.org/World/Authenticator      open source LINUX 2 facto
 
 ### 33- Where can I get native linux versions of mainstream games?
 
-NOTE: You shouldn't be using linux unless your hardware is not enough for a good old Windows 10. Linux became a "launcher" for Windows apps since it doesn't have proper software and never will. [Read](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/linux.md) ⭐ 212 | 🐛 0 | 📅 2026-07-15
+NOTE: You shouldn't be using linux unless your hardware is not enough for a good old Windows 10. Linux became a "launcher" for Windows apps since it doesn't have proper software and never will. [Read](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/linux.md) ⭐ 212 | 🐛 0 | 📅 2026-08-15
 
 ```
 Use: https://archive.org/details/native-linux-games-collection   ⚠️ you will need to create an account at archive.org to see the contents.
@@ -401,7 +401,7 @@ Use: https://github.com/masterofobzene/ChatterboxToolkitUI   ⚠ DO NOT UPLOAD F
 READ: https://www.reddit.com/r/PiratedGames/comments/1s1vnkc/deep_dive_what_is_hypervisor_how_does_it_work/
 ```
 
-[TL;DR version](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/HV.md) ⭐ 212 | 🐛 0 | 📅 2026-07-15
+[TL;DR version](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/HV.md) ⭐ 212 | 🐛 0 | 📅 2026-08-15
 
 <br>
 <br>
@@ -415,7 +415,7 @@ READ: https://www.reddit.com/r/PiratedGames/comments/1s1vnkc/deep_dive_what_is_h
 
 ### 👁‍🗨 Minimal setup for privacy caring people to browse internet:
 
-* [Get an app firewall](https://github.com/henrypp/simplewall/releases/download/v.3.8.7/simplewall-3.8.7-setup.exe) ⭐ 8,838 | 🐛 143 | 🌐 C | 📅 2026-08-12. Not a firewall, an "app firewall". It lets you  give permission to individual executables to go to internet. A pop up will appear to ask you. TIP: unless you plan to play on multiplayer, DENY all requests for internet for all games you install, if you have problems you can always allow them easily. You will be scared to see how games are being used to get user data and try to connect even before the user accepts their terms.
+* [Get an app firewall](https://github.com/henrypp/simplewall/releases/download/v.3.8.7/simplewall-3.8.7-setup.exe) ⭐ 8,841 | 🐛 143 | 🌐 C | 📅 2026-08-12. Not a firewall, an "app firewall". It lets you  give permission to individual executables to go to internet. A pop up will appear to ask you. TIP: unless you plan to play on multiplayer, DENY all requests for internet for all games you install, if you have problems you can always allow them easily. You will be scared to see how games are being used to get user data and try to connect even before the user accepts their terms.
 
 * Use [Librewolf](https://librewolf.net/installation/) instead of Firefox. Don't use any other browser except if you use tor browser (but using tor as a main browser will get you 80% internet "broken").
 
@@ -468,4 +468,4 @@ READ: https://www.reddit.com/r/PiratedGames/comments/1s1vnkc/deep_dive_what_is_h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
