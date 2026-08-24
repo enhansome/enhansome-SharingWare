@@ -1,7 +1,198 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MY ADVICE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 564803151,
+            "language": null,
+            "last_commit": "2026-08-17T16:40:13Z",
+            "owner": "hijoput4",
+            "repo": "SharingWare",
+            "stars": 212
+          }
+        }
+      ],
+      "title": "1- Spotify has ads, how to remove them?"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "READ MORE: Why are you still using proprietary Youtube app?",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 564803151,
+            "language": null,
+            "last_commit": "2026-08-17T16:40:13Z",
+            "owner": "hijoput4",
+            "repo": "SharingWare",
+            "stars": 212
+          }
+        }
+      ],
+      "title": "2- Youtube + ad blocker + sponsorblock (android & PC)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WHY ARE GAMES SO BAD LATELY, DAD? -LONG STORY MY BOY...",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 564803151,
+            "language": null,
+            "last_commit": "2026-08-17T16:40:13Z",
+            "owner": "hijoput4",
+            "repo": "SharingWare",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "READ MORE ABOUT FITGIRL'S REPACKS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 564803151,
+            "language": null,
+            "last_commit": "2026-08-17T16:40:13Z",
+            "owner": "hijoput4",
+            "repo": "SharingWare",
+            "stars": 212
+          }
+        }
+      ],
+      "title": "3- Where do I download clean games?"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "READ MORE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 564803151,
+            "language": null,
+            "last_commit": "2026-08-17T16:40:13Z",
+            "owner": "hijoput4",
+            "repo": "SharingWare",
+            "stars": 212
+          }
+        }
+      ],
+      "title": "4- Need to unlock DLCs on legit games or download Steam clean releases for manual cracking."
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MY ADVICE IF YOU STILL DON'T HAVE A SWITCH",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 564803151,
+            "language": null,
+            "last_commit": "2026-08-17T16:40:13Z",
+            "owner": "hijoput4",
+            "repo": "SharingWare",
+            "stars": 212
+          }
+        }
+      ],
+      "title": "6- Need help on 'modding' my Switch."
+    },
+    {
+      "description": "Here you should see services/apps that let you dl music in MP3 and/or sometimes, lossless.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "More on \"monochrome\" app current state...",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 564803151,
+            "language": null,
+            "last_commit": "2026-08-17T16:40:13Z",
+            "owner": "hijoput4",
+            "repo": "SharingWare",
+            "stars": 212
+          }
+        }
+      ],
+      "title": "17- Where do I get Music files? (not streaming)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TL;DR version",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 564803151,
+            "language": null,
+            "last_commit": "2026-08-17T16:40:13Z",
+            "owner": "hijoput4",
+            "repo": "SharingWare",
+            "stars": 212
+          }
+        }
+      ],
+      "title": "36- I read that there is a \"hypervisor\" crack for games now, what is it?"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Get an app firewall",
+              "description": ". Not a firewall, an \"app firewall\". It lets you give permission to individual executables to go to internet. A pop up will appear to ask you. TIP: unless you plan to play on multiplayer, DENY all requests for internet for all games you install, if you have problems you can always allow them easily. You will be scared to see how games are being used to get user data and try to connect even before the user accepts their terms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66016134,
+                "language": "C",
+                "last_commit": "2026-08-18T18:57:33Z",
+                "owner": "henrypp",
+                "repo": "simplewall",
+                "stars": 8885
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "👁‍🗨 Minimal setup for privacy caring people to browse internet:"
+        }
+      ],
+      "title": "PRIVACY"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T05:05:14.035Z",
+    "last_updated": "2026-08-24T14:32:42.398Z",
     "original_repository": "hijoput4/SharingWare",
     "original_repository_id": 564803151,
     "original_repository_sha": "07052f3ff2cc8142487251eef5e7a9264b31c9f8",
