@@ -179,7 +179,7 @@
                 "last_commit": "2026-08-18T18:57:33Z",
                 "owner": "henrypp",
                 "repo": "simplewall",
-                "stars": 8886
+                "stars": 8885
               }
             }
           ],
@@ -192,9 +192,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:58:48.221Z",
-    "original_repository": "hijoput4/SharingWare",
-    "original_repository_id": 564803151,
+    "last_updated": "2026-08-27T12:05:56.729Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 564803151,
+      "language": null,
+      "last_commit": "2026-08-17T16:40:13Z",
+      "owner": "hijoput4",
+      "repo": "SharingWare",
+      "stars": 212
+    },
     "original_repository_sha": "07052f3ff2cc8142487251eef5e7a9264b31c9f8",
     "enhanced_repository": "enhansome/enhansome-SharingWare",
     "enhanced_repository_description": null,
