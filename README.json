@@ -16,7 +16,8 @@
             "owner": "hijoput4",
             "repo": "SharingWare",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T16:42:09.307Z"
         }
       ],
       "title": "1- Spotify has ads, how to remove them?"
@@ -37,7 +38,8 @@
             "owner": "hijoput4",
             "repo": "SharingWare",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T16:42:09.307Z"
         }
       ],
       "title": "2- Youtube + ad blocker + sponsorblock (android & PC)"
@@ -58,7 +60,8 @@
             "owner": "hijoput4",
             "repo": "SharingWare",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T16:42:09.307Z"
         },
         {
           "node_type": "item",
@@ -73,7 +76,8 @@
             "owner": "hijoput4",
             "repo": "SharingWare",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T16:42:09.307Z"
         }
       ],
       "title": "3- Where do I download clean games?"
@@ -94,7 +98,8 @@
             "owner": "hijoput4",
             "repo": "SharingWare",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T16:42:09.307Z"
         }
       ],
       "title": "4- Need to unlock DLCs on legit games or download Steam clean releases for manual cracking."
@@ -115,7 +120,8 @@
             "owner": "hijoput4",
             "repo": "SharingWare",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T16:42:09.307Z"
         }
       ],
       "title": "6- Need help on 'modding' my Switch."
@@ -136,7 +142,8 @@
             "owner": "hijoput4",
             "repo": "SharingWare",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T16:42:09.307Z"
         }
       ],
       "title": "17- Where do I get Music files? (not streaming)"
@@ -157,7 +164,8 @@
             "owner": "hijoput4",
             "repo": "SharingWare",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T16:42:09.307Z"
         }
       ],
       "title": "36- I read that there is a \"hypervisor\" crack for games now, what is it?"
@@ -176,11 +184,12 @@
                 "archived": false,
                 "id": 66016134,
                 "language": "C",
-                "last_commit": "2026-08-18T18:57:33Z",
+                "last_commit": "2026-08-27T17:12:23Z",
                 "owner": "henrypp",
                 "repo": "simplewall",
-                "stars": 8886
-              }
+                "stars": 8887
+              },
+              "first_seen": "2026-08-28T16:42:09.307Z"
             }
           ],
           "description": null,
@@ -192,7 +201,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:18:30.697Z",
+    "last_updated": "2026-08-28T16:42:09.307Z",
     "original_repository_info": {
       "archived": false,
       "id": 564803151,
