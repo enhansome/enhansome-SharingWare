@@ -388,10 +388,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-27T17:12:23Z",
-                "open_issues": 144,
+                "open_issues": 143,
                 "owner": "henrypp",
                 "repo": "simplewall",
-                "stars": 8907,
+                "stars": 8911,
                 "topics": [
                   "arm64",
                   "firewall",
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T08:58:42.572Z",
+    "last_updated": "2026-09-04T08:53:19.881Z",
     "original_repository_info": {
       "archived": false,
       "description": "FAL (Frequently Asked Links) list so you stop asking these everywhere. It covers 99% your internet needs.",
