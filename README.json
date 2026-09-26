@@ -391,7 +391,7 @@
                 "open_issues": 143,
                 "owner": "henrypp",
                 "repo": "simplewall",
-                "stars": 9057,
+                "stars": 9065,
                 "topics": [
                   "arm64",
                   "firewall",
@@ -416,7 +416,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T09:39:30.881Z",
+    "last_updated": "2026-09-26T09:23:54.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "FAL (Frequently Asked Links) list so you stop asking these everywhere. It covers 99% your internet needs.",
