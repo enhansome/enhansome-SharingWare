@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "MY ADVICE",
-          "description": null,
+          "description": "hijoput4/SharingWare",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -52,96 +52,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "READ MORE: Why are you still using proprietary Youtube app?",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "FAL (Frequently Asked Links) list so you stop asking these everywhere. It covers 99% your internet needs.",
-            "homepage": null,
-            "id": 564803151,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-09-16T14:01:01Z",
-            "open_issues": 0,
-            "owner": "hijoput4",
-            "repo": "SharingWare",
-            "stars": 211,
-            "topics": [
-              "awesome-list",
-              "censorship",
-              "curated-list",
-              "download",
-              "games",
-              "links",
-              "list",
-              "multimedia",
-              "music",
-              "office",
-              "politics",
-              "privacy",
-              "privacy-protection",
-              "reddit",
-              "software",
-              "spotify",
-              "switch",
-              "windows",
-              "youtube"
-            ]
-          },
-          "first_seen": "2026-08-28T16:42:09.307Z"
-        }
-      ],
-      "title": "2- Youtube + ad blocker + sponsorblock (android & PC)"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "WHY ARE GAMES SO BAD LATELY, DAD? -LONG STORY MY BOY...",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "FAL (Frequently Asked Links) list so you stop asking these everywhere. It covers 99% your internet needs.",
-            "homepage": null,
-            "id": 564803151,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-09-16T14:01:01Z",
-            "open_issues": 0,
-            "owner": "hijoput4",
-            "repo": "SharingWare",
-            "stars": 211,
-            "topics": [
-              "awesome-list",
-              "censorship",
-              "curated-list",
-              "download",
-              "games",
-              "links",
-              "list",
-              "multimedia",
-              "music",
-              "office",
-              "politics",
-              "privacy",
-              "privacy-protection",
-              "reddit",
-              "software",
-              "spotify",
-              "switch",
-              "windows",
-              "youtube"
-            ]
-          },
-          "first_seen": "2026-08-28T16:42:09.307Z"
-        },
-        {
-          "node_type": "item",
           "title": "READ MORE ABOUT FITGIRL'S REPACKS",
-          "description": null,
+          "description": "hijoput4/SharingWare",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -188,7 +100,7 @@
         {
           "node_type": "item",
           "title": "READ MORE",
-          "description": null,
+          "description": "hijoput4/SharingWare",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -235,7 +147,7 @@
         {
           "node_type": "item",
           "title": "MY ADVICE IF YOU STILL DON'T HAVE A SWITCH",
-          "description": null,
+          "description": "hijoput4/SharingWare",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -277,100 +189,6 @@
       "title": "6- Need help on 'modding' my Switch."
     },
     {
-      "description": "Here you should see services/apps that let you dl music in MP3 and/or sometimes, lossless.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "More on \"monochrome\" app current state...",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "FAL (Frequently Asked Links) list so you stop asking these everywhere. It covers 99% your internet needs.",
-            "homepage": null,
-            "id": 564803151,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-09-16T14:01:01Z",
-            "open_issues": 0,
-            "owner": "hijoput4",
-            "repo": "SharingWare",
-            "stars": 211,
-            "topics": [
-              "awesome-list",
-              "censorship",
-              "curated-list",
-              "download",
-              "games",
-              "links",
-              "list",
-              "multimedia",
-              "music",
-              "office",
-              "politics",
-              "privacy",
-              "privacy-protection",
-              "reddit",
-              "software",
-              "spotify",
-              "switch",
-              "windows",
-              "youtube"
-            ]
-          },
-          "first_seen": "2026-08-28T16:42:09.307Z"
-        }
-      ],
-      "title": "17- Where do I get Music files? (not streaming)"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "TL;DR version",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "FAL (Frequently Asked Links) list so you stop asking these everywhere. It covers 99% your internet needs.",
-            "homepage": null,
-            "id": 564803151,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-09-16T14:01:01Z",
-            "open_issues": 0,
-            "owner": "hijoput4",
-            "repo": "SharingWare",
-            "stars": 211,
-            "topics": [
-              "awesome-list",
-              "censorship",
-              "curated-list",
-              "download",
-              "games",
-              "links",
-              "list",
-              "multimedia",
-              "music",
-              "office",
-              "politics",
-              "privacy",
-              "privacy-protection",
-              "reddit",
-              "software",
-              "spotify",
-              "switch",
-              "windows",
-              "youtube"
-            ]
-          },
-          "first_seen": "2026-08-28T16:42:09.307Z"
-        }
-      ],
-      "title": "36- I read that there is a \"hypervisor\" crack for games now, what is it?"
-    },
-    {
       "description": null,
       "items": [
         {
@@ -388,10 +206,10 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-01T11:46:04Z",
-                "open_issues": 142,
+                "open_issues": 140,
                 "owner": "henrypp",
                 "repo": "simplewall",
-                "stars": 9092,
+                "stars": 9095,
                 "topics": [
                   "arm64",
                   "firewall",
@@ -416,7 +234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:33:31.575Z",
+    "last_updated": "2026-10-03T04:35:12.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "FAL (Frequently Asked Links) list so you stop asking these everywhere. It covers 99% your internet needs.",
