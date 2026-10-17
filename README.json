@@ -15,7 +15,7 @@
             "id": 564803151,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-16T14:01:01Z",
+            "last_commit": "2026-10-16T14:32:39Z",
             "open_issues": 0,
             "owner": "hijoput4",
             "repo": "SharingWare",
@@ -62,7 +62,7 @@
             "id": 564803151,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-16T14:01:01Z",
+            "last_commit": "2026-10-16T14:32:39Z",
             "open_issues": 0,
             "owner": "hijoput4",
             "repo": "SharingWare",
@@ -109,7 +109,7 @@
             "id": 564803151,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-16T14:01:01Z",
+            "last_commit": "2026-10-16T14:32:39Z",
             "open_issues": 0,
             "owner": "hijoput4",
             "repo": "SharingWare",
@@ -156,7 +156,7 @@
             "id": 564803151,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-16T14:01:01Z",
+            "last_commit": "2026-10-16T14:32:39Z",
             "open_issues": 0,
             "owner": "hijoput4",
             "repo": "SharingWare",
@@ -209,7 +209,7 @@
                 "open_issues": 142,
                 "owner": "henrypp",
                 "repo": "simplewall",
-                "stars": 9152,
+                "stars": 9160,
                 "topics": [
                   "arm64",
                   "firewall",
@@ -234,7 +234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T09:05:04.459Z",
+    "last_updated": "2026-10-17T08:37:49.925Z",
     "original_repository_info": {
       "archived": false,
       "description": "FAL (Frequently Asked Links) list so you stop asking these everywhere. It covers 99% your internet needs.",
@@ -242,7 +242,7 @@
       "id": 564803151,
       "language": null,
       "license": null,
-      "last_commit": "2026-09-16T14:01:01Z",
+      "last_commit": "2026-10-16T14:32:39Z",
       "open_issues": 0,
       "owner": "hijoput4",
       "repo": "SharingWare",
@@ -269,7 +269,7 @@
         "youtube"
       ]
     },
-    "original_repository_sha": "20d6282be38a038cbe17cfb6cc03668c8403b765",
+    "original_repository_sha": "fc59a194ccb73e0f3faa76b90f522c9d213b4487",
     "enhanced_repository": "enhansome/enhansome-SharingWare",
     "enhanced_repository_description": null,
     "title": "Awesome This list is a FAL \"Frequently Asked Links\" 2026. with stars"
