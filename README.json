@@ -205,11 +205,11 @@
                 "id": 66016134,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-01T09:22:58Z",
-                "open_issues": 145,
+                "last_commit": "2026-11-02T03:46:28Z",
+                "open_issues": 144,
                 "owner": "henrypp",
                 "repo": "simplewall",
-                "stars": 9234,
+                "stars": 9241,
                 "topics": [
                   "arm64",
                   "firewall",
@@ -234,7 +234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T11:20:00.993Z",
+    "last_updated": "2026-11-02T12:34:08.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "FAL (Frequently Asked Links) list so you stop asking these everywhere. It covers 99% your internet needs.",
