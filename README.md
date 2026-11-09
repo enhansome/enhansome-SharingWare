@@ -85,7 +85,7 @@ No more mobile cracks I'm afraid: https://www.reddit.com/r/revancedapp/comments/
 If you use the web version just use ublock origins and you are done! (good for android phones firefox+ublock)
 ```
 
-[MY ADVICE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/spoti) ⭐ 211 | 🐛 0 | 📅 2026-11-07
+[MY ADVICE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/spoti) ⭐ 211 | 🐛 0 | 📅 2026-11-08
 
 ### 2- Youtube + ad blocker + sponsorblock (android & PC)
 
@@ -114,7 +114,7 @@ Use: https://fitgirl-repacks.site/     -mostly indie, girly and dumb games. You 
 
 [WHY ARE GAMES SO BAD LATELY, DAD? -LONG STORY MY BOY...](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/AI-CHAT.md)
 
-[READ MORE ABOUT FITGIRL'S REPACKS](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/fitgirl) ⭐ 211 | 🐛 0 | 📅 2026-11-07
+[READ MORE ABOUT FITGIRL'S REPACKS](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/fitgirl) ⭐ 211 | 🐛 0 | 📅 2026-11-08
 
 ### 4- Need to unlock DLCs on legit games or download Steam clean releases for manual cracking.
 
@@ -127,7 +127,7 @@ Use: https://github.com/KaladinDMP/ARMGDDN-Autocracker-OG-GSE to "manually apply
 OR use: https://github.com/SteamAutoCracks/Steam-auto-crack 
 ```
 
-[READ MORE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/csrinru) ⭐ 211 | 🐛 0 | 📅 2026-11-07
+[READ MORE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/csrinru) ⭐ 211 | 🐛 0 | 📅 2026-11-08
 
 ### 5- I need console game ROMS
 
@@ -154,7 +154,7 @@ Use: https://github.com/Atmosphere-NX/Atmosphere  - Open source 'Ntendo' OS.
 Use: https://github.com/HamletDuFromage/aio-switch-updater  - Updater app (I think it is outdated by now) Requires the console "liberated".
 ```
 
-[MY ADVICE IF YOU STILL DON'T HAVE A SWITCH](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/switch) ⭐ 211 | 🐛 0 | 📅 2026-11-07
+[MY ADVICE IF YOU STILL DON'T HAVE A SWITCH](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/switch) ⭐ 211 | 🐛 0 | 📅 2026-11-08
 
 ### 7- Need advanced tools for my switch games.
 
@@ -231,11 +231,10 @@ Use: https://github.com/massgravel/Microsoft-Activation-Scripts
 Here you should see services/apps that let you dl music in MP3 and/or sometimes, lossless.
 
 ```
-Use: https://github.com/spotDL/spotify-downloader (they fixed it)
-Use: https://lucida.to (not the best)   
+Use: https://github.com/spotDL/spotify-downloader (downloads from youtube)
 Use: https://rutracker.org/forum/index.php (TORRENTS)
 
-See if it works: https://monochrome.tf (works, doesn't work, works, doesn't work...)
+
 ```
 
 [More on "monochrome" app current state...](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/monochrome.md)
@@ -256,10 +255,7 @@ I humbly recommend FLAC over mp3 to store music, because its noticeable increase
 Yes, some are the same than above but this one only filters the ones that let the user download FLAC lossless files and not MP3 files only.
 
 ```
-Use: https://lucida.to (not the best)   
 Use: https://rutracker.org/forum/index.php (TORRENTS)
-
-See if it works: https://monochrome.tf (works, doesn't work, works, doesn't work...)
 ```
 
 ### 20-I have an old game and I wish to play it on a widescreen
@@ -412,7 +408,7 @@ READ: https://www.reddit.com/r/PiratedGames/comments/1s1vnkc/deep_dive_what_is_h
 
 ### 👁‍🗨 Minimal setup for privacy caring people to browse internet:
 
-* [Get an app firewall](https://github.com/henrypp/simplewall/releases/download/v.3.8.7/simplewall-3.8.7-setup.exe) ⭐ 9,262 | 🐛 134 | 🌐 C | 📅 2026-11-08. Not a firewall, an "app firewall". It lets you  give permission to individual executables to go to internet. A pop up will appear to ask you. TIP: unless you plan to play on multiplayer, DENY all requests for internet for all games you install, if you have problems you can always allow them easily. You will be scared to see how games are being used to get user data and try to connect even before the user accepts their terms.
+* [Get an app firewall](https://github.com/henrypp/simplewall/releases/download/v.3.8.7/simplewall-3.8.7-setup.exe) ⭐ 9,270 | 🐛 134 | 🌐 C | 📅 2026-11-08. Not a firewall, an "app firewall". It lets you  give permission to individual executables to go to internet. A pop up will appear to ask you. TIP: unless you plan to play on multiplayer, DENY all requests for internet for all games you install, if you have problems you can always allow them easily. You will be scared to see how games are being used to get user data and try to connect even before the user accepts their terms.
 
 * Use [Librewolf](https://librewolf.net/installation/) instead of Firefox. Don't use any other browser except if you use tor browser (but using tor as a main browser will get you 80% internet "broken").
 
@@ -465,4 +461,4 @@ READ: https://www.reddit.com/r/PiratedGames/comments/1s1vnkc/deep_dive_what_is_h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
