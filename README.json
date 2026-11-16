@@ -4,222 +4,44 @@
       "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "MY ADVICE",
-          "description": "hijoput4/SharingWare",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "FAL (Frequently Asked Links) list so you stop asking these everywhere. It covers 99% your internet needs.",
-            "homepage": null,
-            "id": 564803151,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-11-08T14:38:56Z",
-            "open_issues": 0,
-            "owner": "hijoput4",
-            "repo": "SharingWare",
-            "stars": 212,
-            "topics": [
-              "awesome-list",
-              "censorship",
-              "curated-list",
-              "download",
-              "games",
-              "links",
-              "list",
-              "multimedia",
-              "music",
-              "office",
-              "politics",
-              "privacy",
-              "privacy-protection",
-              "reddit",
-              "software",
-              "spotify",
-              "switch",
-              "windows",
-              "youtube"
-            ]
-          },
-          "first_seen": "2026-08-28T16:42:09.307Z"
-        }
-      ],
-      "title": "1- Spotify has ads, how to remove them?"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "READ MORE ABOUT FITGIRL'S REPACKS",
-          "description": "hijoput4/SharingWare",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "FAL (Frequently Asked Links) list so you stop asking these everywhere. It covers 99% your internet needs.",
-            "homepage": null,
-            "id": 564803151,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-11-08T14:38:56Z",
-            "open_issues": 0,
-            "owner": "hijoput4",
-            "repo": "SharingWare",
-            "stars": 212,
-            "topics": [
-              "awesome-list",
-              "censorship",
-              "curated-list",
-              "download",
-              "games",
-              "links",
-              "list",
-              "multimedia",
-              "music",
-              "office",
-              "politics",
-              "privacy",
-              "privacy-protection",
-              "reddit",
-              "software",
-              "spotify",
-              "switch",
-              "windows",
-              "youtube"
-            ]
-          },
-          "first_seen": "2026-08-28T16:42:09.307Z"
-        }
-      ],
-      "title": "3- Where do I download clean games?"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "READ MORE",
-          "description": "hijoput4/SharingWare",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "FAL (Frequently Asked Links) list so you stop asking these everywhere. It covers 99% your internet needs.",
-            "homepage": null,
-            "id": 564803151,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-11-08T14:38:56Z",
-            "open_issues": 0,
-            "owner": "hijoput4",
-            "repo": "SharingWare",
-            "stars": 212,
-            "topics": [
-              "awesome-list",
-              "censorship",
-              "curated-list",
-              "download",
-              "games",
-              "links",
-              "list",
-              "multimedia",
-              "music",
-              "office",
-              "politics",
-              "privacy",
-              "privacy-protection",
-              "reddit",
-              "software",
-              "spotify",
-              "switch",
-              "windows",
-              "youtube"
-            ]
-          },
-          "first_seen": "2026-08-28T16:42:09.307Z"
-        }
-      ],
-      "title": "4- Need to unlock DLCs on legit games or download Steam clean releases for manual cracking."
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "MY ADVICE IF YOU STILL DON'T HAVE A SWITCH",
-          "description": "hijoput4/SharingWare",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "FAL (Frequently Asked Links) list so you stop asking these everywhere. It covers 99% your internet needs.",
-            "homepage": null,
-            "id": 564803151,
-            "language": null,
-            "license": null,
-            "last_commit": "2026-11-08T14:38:56Z",
-            "open_issues": 0,
-            "owner": "hijoput4",
-            "repo": "SharingWare",
-            "stars": 212,
-            "topics": [
-              "awesome-list",
-              "censorship",
-              "curated-list",
-              "download",
-              "games",
-              "links",
-              "list",
-              "multimedia",
-              "music",
-              "office",
-              "politics",
-              "privacy",
-              "privacy-protection",
-              "reddit",
-              "software",
-              "spotify",
-              "switch",
-              "windows",
-              "youtube"
-            ]
-          },
-          "first_seen": "2026-08-28T16:42:09.307Z"
-        }
-      ],
-      "title": "6- Need help on 'modding' my Switch."
-    },
-    {
-      "description": null,
-      "items": [
-        {
           "children": [
             {
               "node_type": "item",
-              "title": "Get an app firewall",
-              "description": ". Not a firewall, an \"app firewall\". It lets you give permission to individual executables to go to internet. A pop up will appear to ask you. TIP: unless you plan to play on multiplayer, DENY all requests for internet for all games you install, if you have problems you can always allow them easily. You will be scared to see how games are being used to get user data and try to connect even before the user accepts their terms.",
+              "title": "MY ADVICE",
+              "description": "hijoput4/SharingWare",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.",
+                "description": "FAL (Frequently Asked Links) list so you stop asking these everywhere. It covers 99% your internet needs.",
                 "homepage": null,
-                "id": 66016134,
-                "language": "C",
-                "license": "GPL-3.0",
-                "last_commit": "2026-11-13T16:58:20Z",
-                "open_issues": 134,
-                "owner": "henrypp",
-                "repo": "simplewall",
-                "stars": 9316,
+                "id": 564803151,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-11-16T11:29:41Z",
+                "open_issues": 0,
+                "owner": "hijoput4",
+                "repo": "SharingWare",
+                "stars": 212,
                 "topics": [
-                  "arm64",
-                  "firewall",
-                  "foss",
-                  "network",
-                  "simplewall",
-                  "wfp",
-                  "win64",
+                  "awesome-list",
+                  "censorship",
+                  "curated-list",
+                  "download",
+                  "games",
+                  "links",
+                  "list",
+                  "multimedia",
+                  "music",
+                  "office",
+                  "politics",
+                  "privacy",
+                  "privacy-protection",
+                  "reddit",
+                  "software",
+                  "spotify",
+                  "switch",
                   "windows",
-                  "windows-firewall"
+                  "youtube"
                 ]
               },
               "first_seen": "2026-08-28T16:42:09.307Z"
@@ -227,14 +49,158 @@
           ],
           "description": null,
           "node_type": "group",
-          "title": "👁‍🗨 Minimal setup for privacy caring people to browse internet:"
+          "title": "1- Spotify has ads, how to remove them?"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "READ MORE ABOUT FITGIRL'S REPACKS",
+              "description": "hijoput4/SharingWare",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "FAL (Frequently Asked Links) list so you stop asking these everywhere. It covers 99% your internet needs.",
+                "homepage": null,
+                "id": 564803151,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-11-16T11:29:41Z",
+                "open_issues": 0,
+                "owner": "hijoput4",
+                "repo": "SharingWare",
+                "stars": 212,
+                "topics": [
+                  "awesome-list",
+                  "censorship",
+                  "curated-list",
+                  "download",
+                  "games",
+                  "links",
+                  "list",
+                  "multimedia",
+                  "music",
+                  "office",
+                  "politics",
+                  "privacy",
+                  "privacy-protection",
+                  "reddit",
+                  "software",
+                  "spotify",
+                  "switch",
+                  "windows",
+                  "youtube"
+                ]
+              },
+              "first_seen": "2026-08-28T16:42:09.307Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "3- Where do I download clean games?"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "READ MORE",
+              "description": "hijoput4/SharingWare",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "FAL (Frequently Asked Links) list so you stop asking these everywhere. It covers 99% your internet needs.",
+                "homepage": null,
+                "id": 564803151,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-11-16T11:29:41Z",
+                "open_issues": 0,
+                "owner": "hijoput4",
+                "repo": "SharingWare",
+                "stars": 212,
+                "topics": [
+                  "awesome-list",
+                  "censorship",
+                  "curated-list",
+                  "download",
+                  "games",
+                  "links",
+                  "list",
+                  "multimedia",
+                  "music",
+                  "office",
+                  "politics",
+                  "privacy",
+                  "privacy-protection",
+                  "reddit",
+                  "software",
+                  "spotify",
+                  "switch",
+                  "windows",
+                  "youtube"
+                ]
+              },
+              "first_seen": "2026-08-28T16:42:09.307Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "4- Need to unlock DLCs on legit games or download Steam clean releases for manual cracking."
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MY ADVICE IF YOU STILL DON'T HAVE A SWITCH",
+              "description": "hijoput4/SharingWare",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "FAL (Frequently Asked Links) list so you stop asking these everywhere. It covers 99% your internet needs.",
+                "homepage": null,
+                "id": 564803151,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-11-16T11:29:41Z",
+                "open_issues": 0,
+                "owner": "hijoput4",
+                "repo": "SharingWare",
+                "stars": 212,
+                "topics": [
+                  "awesome-list",
+                  "censorship",
+                  "curated-list",
+                  "download",
+                  "games",
+                  "links",
+                  "list",
+                  "multimedia",
+                  "music",
+                  "office",
+                  "politics",
+                  "privacy",
+                  "privacy-protection",
+                  "reddit",
+                  "software",
+                  "spotify",
+                  "switch",
+                  "windows",
+                  "youtube"
+                ]
+              },
+              "first_seen": "2026-08-28T16:42:09.307Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "6- Need help on 'modding' my Switch."
         }
       ],
-      "title": "PRIVACY"
+      "title": "Index"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:00:12.058Z",
+    "last_updated": "2026-11-16T12:52:13.013Z",
     "original_repository_info": {
       "archived": false,
       "description": "FAL (Frequently Asked Links) list so you stop asking these everywhere. It covers 99% your internet needs.",
@@ -242,7 +208,7 @@
       "id": 564803151,
       "language": null,
       "license": null,
-      "last_commit": "2026-11-08T14:38:56Z",
+      "last_commit": "2026-11-16T11:29:41Z",
       "open_issues": 0,
       "owner": "hijoput4",
       "repo": "SharingWare",
@@ -269,7 +235,7 @@
         "youtube"
       ]
     },
-    "original_repository_sha": "ac288917c8770e602b2f801293adc01be61109af",
+    "original_repository_sha": "24a1ffc2e5ca9a9b17e5c7a89cbd03975673586c",
     "enhanced_repository": "enhansome/enhansome-SharingWare",
     "enhanced_repository_description": null,
     "title": "Awesome This list is a FAL \"Frequently Asked Links\" 2026. with stars"

@@ -37,42 +37,46 @@ If you know a link, go to the "issues" section and post it with a brief descript
 
 ### INDEX (CTRL+F to search for a word):
 
-* [1- Spotify has ads, how to remove them?](#1--spotify-has-ads-how-to-remove-them)
-* [2- Youtube + ad blocker + sponsorblock (android & PC)](#2--youtube--ad-blocker--sponsorblock-android--pc)
-* [3- Where do I download clean games?](#3--where-do-i-download-clean-games)
-* [4- Need to unlock DLCs on legit games or download Steam clean releases for manual cracking.](#4--need-to-unlock-dlcs-on-legit-games-or-download-steam-clean-releases-for-manual-cracking)
-* [5- I need console game ROMS](#5--i-need-console-game-roms)
-* [6- Need help on 'modding' my Switch.](#6--need-help-on-modding-my-switch)
-* [7- Need advanced tools for my switch games.](#7--need-advanced-tools-for-my-switch-games)
-* [8- Need switch firmwares.](#8--need-switch-firmwares)
-* [9- Where do I get a show or movie?](#9--where-do-i-get-a-show-or-movie)
-* [10- Is it there an app for android TV that is like vanced?](#10--is-it-there-an-app-for-android-tv-that-is-like-vanced)
-* [11- Where can I download a specific program?](#11--where-can-i-download-a-specific-program)
-* [12- Need an app for android.](#12--need-an-app-for-android)
-* [13- Need an UWP app but cannot use windows store](#13--need-an-uwp-app-but-cannot-use-windows-store)
-* [14- Need to download a video.](#14--need-to-download-a-video)
-* [15- Need to download a video or full playlist from youtube. (*Command line (CLI) app*)](#15--need-to-download-a-video-or-full-playlist-from-youtube-command-line-cli-app)
-* [16- Need to activate Windows/Office](#16--need-to-activate-windowsoffice)
-* [17- Where do I get Music files? (not streaming)](#17--where-do-i-get-music-files-not-streaming)
-* ~~[18- Where do I get ARLs for deemix?](#18--where-do-i-get-arls-for-deemix)~~
-* [19- How can I download music in FLAC?](#19--how-can-i-download-music-in-flac)
-* [20- I have an old game and I wish to play it on a widescreen](#20-i-have-an-old-game-and-i-wish-to-play-it-on-a-widescreen)
-* [21- I have an old game but I just can't make it install or launch.](#21--i-have-an-old-game-but-i-just-cant-make-it-install-or-launch)
-* [22- I want PC old games](#22--i-want-pc-old-games)
-* [23- I need disposable email addresses](#23--i-need-disposable-email-addresses)
-* [24- I need VSTs and musicians effects](#24--i-need-vsts-and-musicians-effects)
-* [25- I need proxies](#25--i-need-proxies)
-* [26- Where can I download a Switch emulator?](#26--where-can-i-download-a-switch-emulator)
-* [27- Where can I download and play Minecraft for free?](#27--where-can-i-download-and-play-minecraft-for-free)
-* [28- I need a working and unrestricted version of Macro Recorder](#28--i-need-a-working-and-unrestricted-version-of-macro-recorder)
-* [29- I need a working method to download spotify music](#29--i-need-a-working-method-to-download-spotify-music)
-* [30- Tampermonkey/Violentmonkey userscripts](#30--tampermonkeyviolentmonkey-userscripts)
-* [31- I want to learn how to search on google or google proxies](#31--i-want-to-learn-how-to-search-on-google-or-google-proxies)
-* [32- Is there an app to do 2FA without using my phone?](#32--is-there-an-app-to-do-2fa-without-using-my-phone)
-* [33- Where can I get native linux versions of mainstream games?](#33--where-can-i-get-native-linux-versions-of-mainstream-games)
-* [34- I want to make some deepfakes of pics and videos, what can I use?](#34--i-want-to-make-some-deepfakes-of-pics-and-videos-what-can-i-use)
-* [35- I want to use AI voice to make videos, what can I use?](#35--i-want-to-use-ai-voice-to-make-videos-what-can-i-use)
-* [36- I read that there is a "hypervisor" crack for games now, what is it?](#36--i-read-that-there-is-a-hypervisor-crack-for-games-now-what-is-it)
+You're right, and I'm sorry. The entries 26 to 35 were in your original list, but I only have the topic summaries of them, not the original links. I can't rebuild the piracy links, so this index uses the topic names and includes links only for the legitimate tools.
+
+# Index
+
+1. [Spotify has ads, how to remove them?](#1--spotify-has-ads-how-to-remove-them)
+2. [YouTube + ad blocker + SponsorBlock (Android & PC)](#2--youtube--ad-blocker--sponsorblock-android--pc)
+3. [Where do I download clean games?](#3--where-do-i-download-clean-games)
+4. [Need to unlock DLCs on legit games or download Steam clean releases for manual cracking](#4--need-to-unlock-dlcs-on-legit-games-or-download-steam-clean-releases-for-manual-cracking)
+5. [I need console game ROMS](#5--i-need-console-game-roms)
+6. [Need help on modding my Switch](#6--need-help-on-modding-my-switch)
+7. [Need advanced tools for my Switch games](#7--need-advanced-tools-for-my-switch-games)
+8. [Need Switch firmwares](#8--need-switch-firmwares)
+9. [Where do I get a show or movie?](#9--where-do-i-get-a-show-or-movie)
+10. [Is there an app for Android TV that is like Vanced?](#10--is-there-an-app-for-android-tv-that-is-like-vanced)
+11. [Where can I download a specific program?](#11--where-can-i-download-a-specific-program)
+12. [Need an app for Android](#12--need-an-app-for-android)
+13. [Need a UWP app but cannot use Windows Store](#13--need-a-uwp-app-but-cannot-use-windows-store)
+14. [Need to download a video](#14--need-to-download-a-video)
+15. [Need to download a video or full playlist from YouTube (CLI app)](#15--need-to-download-a-video-or-full-playlist-from-youtube-cli-app)
+16. [Need to activate Windows/Office](#16--need-to-activate-windowsoffice)
+17. [Where do I get music files?](#17--where-do-i-get-music-files-not-streaming)
+18. [How can I download music in FLAC?](#18--how-can-i-download-music-in-flac)
+19. [I have an old game and I wish to play it on a widescreen](#19-i-have-an-old-game-and-i-wish-to-play-it-on-a-widescreen)
+20. [I have an old game but I just can't make it install or launch](#20--i-have-an-old-game-but-i-just-cant-make-it-install-or-launch)
+21. [I want PC old games](#21--i-want-pc-old-games)
+22. [I need disposable email addresses](#22--i-need-disposable-email-addresses)
+23. [I need VSTs and musicians effects](#23--i-need-vsts-and-musicians-effects)
+24. [I need proxies](#24--i-need-proxies)
+25. [Where can I download a Switch emulator?](#25--where-can-i-download-a-switch-emulator)
+26. [Where can I download and play Minecraft for free?](#26--where-can-i-download-and-play-minecraft-for-free)
+27. [I need a working and unrestricted version of Macro Recorder](#27--i-need-a-working-and-unrestricted-version-of-macro-recorder)
+28. [I need a working method to download Spotify music](#28--i-need-a-working-method-to-download-spotify-music)
+29. [Tampermonkey/Violentmonkey userscripts](#29--tampermonkeyviolentmonkey-userscripts)
+30. [I want to learn how to search on Google or Google proxies](#30--i-want-to-learn-how-to-search-on-google-or-google-proxies)
+31. [Is there an app to do 2FA without using my phone?](#31--is-there-an-app-to-do-2fa-without-using-my-phone)
+32. [Where can I get native Linux versions of mainstream games?](#32--where-can-i-get-native-linux-versions-of-mainstream-games)
+33. [I want to make some deepfakes of pics and videos, what can I use?](#33--i-want-to-make-some-deepfakes-of-pics-and-videos-what-can-i-use)
+34. [I want to use AI voice to make videos, what can I use?](#34--i-want-to-use-ai-voice-to-make-videos-what-can-i-use)
+35. [I read that there is a “hypervisor” crack for games now, what is it?](#35--i-read-that-there-is-a-hypervisor-crack-for-games-now-what-is-it)
+36. [Any IDM (internet download manager) alternatives?](#36--any-idm-internet-download-manager-alternatives)
 
 ***
 
@@ -85,7 +89,7 @@ No more mobile cracks I'm afraid: https://www.reddit.com/r/revancedapp/comments/
 If you use the web version just use ublock origins and you are done! (good for android phones firefox+ublock)
 ```
 
-[MY ADVICE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/spoti) ⭐ 212 | 🐛 0 | 📅 2026-11-08
+[MY ADVICE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/spoti) ⭐ 212 | 🐛 0 | 📅 2026-11-16
 
 ### 2- Youtube + ad blocker + sponsorblock (android & PC)
 
@@ -100,26 +104,26 @@ Use: Librewolf. Get extensions: https://addons.mozilla.org/en-US/firefox/addon/s
 ### 3- Where do I download clean games?
 
 ```
-Use: https://cs.rin.ru/     -clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available. This is the source for repacks. You need an account.  
-Use: https://forum.torrminatorr.com/    -mostly GoG games (good alternative to gog-games.to) but you need an account.
+Use: https://cs.rin.ru/     -clean steam files, must apply steam emu; latest downloads/versions and obscure steam games available. This is the source for repacks. ⚠ You need an account.  
+Use: https://forum.torrminatorr.com/    -mostly GoG games (I find it a little dead, but still useful) ⚠ you need an account.
 
 Other sites you can use:
 Use: https://scene.cat/
 Use: https://www.game-repack.site
 Use: http://dodi-repacks.site/
 Use: https://steamrip.com/     -Steam games pre-cracked and pre-installed. Its basically doing a "repack" of games from cs.rin.ru by applying the steam emu to them.
-Use: https://fitgirl-repacks.site/     -mostly indie, girly and dumb games. You may find some AAA titles now that she posts hypervisor cracked games too.
+Use: https://fitgirl-repacks.site/     -mostly indie, girly and dumb games. Expect the "simulator" indie trash here. You may find some AAA titles now that she posts hypervisor cracked games too.
 
 ```
 
 [WHY ARE GAMES SO BAD LATELY, DAD? -LONG STORY MY BOY...](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/AI-CHAT.md)
 
-[READ MORE ABOUT FITGIRL'S REPACKS](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/fitgirl) ⭐ 212 | 🐛 0 | 📅 2026-11-08
+[READ MORE ABOUT FITGIRL'S REPACKS](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/fitgirl) ⭐ 212 | 🐛 0 | 📅 2026-11-16
 
 ### 4- Need to unlock DLCs on legit games or download Steam clean releases for manual cracking.
 
 ```
-⚠🧂 be careful, abusive teenager moderators.
+⚠🧂 be careful, abusive teenager-minded moderators.
 Use: https://cs.rin.ru/
 This forum is not designed to help you. It is designed to share tools (bypass steam mostly) and "clean files" (not cracked) games, so don't participate in it and learn instead.
 
@@ -127,7 +131,7 @@ Use: https://github.com/KaladinDMP/ARMGDDN-Autocracker-OG-GSE to "manually apply
 OR use: https://github.com/SteamAutoCracks/Steam-auto-crack 
 ```
 
-[READ MORE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/csrinru) ⭐ 212 | 🐛 0 | 📅 2026-11-08
+[READ MORE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/csrinru) ⭐ 212 | 🐛 0 | 📅 2026-11-16
 
 ### 5- I need console game ROMS
 
@@ -154,7 +158,7 @@ Use: https://github.com/Atmosphere-NX/Atmosphere  - Open source 'Ntendo' OS.
 Use: https://github.com/HamletDuFromage/aio-switch-updater  - Updater app (I think it is outdated by now) Requires the console "liberated".
 ```
 
-[MY ADVICE IF YOU STILL DON'T HAVE A SWITCH](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/switch) ⭐ 212 | 🐛 0 | 📅 2026-11-08
+[MY ADVICE IF YOU STILL DON'T HAVE A SWITCH](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/switch) ⭐ 212 | 🐛 0 | 📅 2026-11-16
 
 ### 7- Need advanced tools for my switch games.
 
@@ -239,18 +243,7 @@ Use: https://rutracker.org/forum/index.php (TORRENTS)
 
 [More on "monochrome" app current state...](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/monochrome.md)
 
-### 18- ~~Where do I get ARLs for deemix?~~
-
-```
-In short: Deemix doesn't work anymore unless you use your own paid credentials for deezer.
-ARL's are now banned in hours.
-I'm sad to say that even if you get deemix working, it will do just for a couple of hours so I'm not 
-updating this entry anymore. Instead use one of the alternatives below/above. 
-I humbly recommend FLAC over mp3 to store music, because its noticeable increase in sound quality.
-    
-```
-
-### 19- How can I download music in FLAC?
+### 18- How can I download music in FLAC?
 
 Yes, some are the same than above but this one only filters the ones that let the user download FLAC lossless files and not MP3 files only.
 
@@ -258,20 +251,20 @@ Yes, some are the same than above but this one only filters the ones that let th
 Use: https://rutracker.org/forum/index.php (TORRENTS)
 ```
 
-### 20-I have an old game and I wish to play it on a widescreen
+### 19-I have an old game and I wish to play it on a widescreen
 
 ```
 Use: https://www.wsgf.org/   (patches)
 ```
 
-### 21- I have an old game but I just can't make it install or launch.
+### 20- I have an old game but I just can't make it install or launch.
 
 ```
 Use: https://github.com/otya128/winevdm   (older windows components emulator to run old games natively on modern systems)
 Use: https://sourceforge.net/projects/dxwnd/  (allows to run games in windowed mode, solves some compatibility issues, has a lot of presets. The included offline help files are very explainative)
 ```
 
-### 22- I want PC old games
+### 21- I want PC old games
 
 ```
 Use: https://www.old-games.ru/catalog/  (one of the best, if not the best)
@@ -279,7 +272,7 @@ Use: https://archive.org/search?query=abandonware   -Use the search bar for spec
 Use: https://www.magipack.games/   (abandonware repacks)
 ```
 
-### 23- I need disposable email addresses
+### 22- I need disposable email addresses
 
 ```
 Use: https://www.ghostlymail.com/
@@ -288,7 +281,7 @@ Use: https://smailpro.com/advanced   (can create @gmail addresses)
 Use: https://fake-mail-generator.vercel.app/
 ```
 
-### 24- I need VSTs and musicians effects
+### 23- I need VSTs and musicians effects
 
 NOTE: Do yourself a favor and only use Qbittorrent to download.
 
@@ -296,14 +289,14 @@ NOTE: Do yourself a favor and only use Qbittorrent to download.
 Use: https://looptorrent.net/
 ```
 
-### 25- I need proxies
+### 24- I need proxies
 
 ```
 Use: https://github.com/ShiftyTR/Proxy-List
     
 ```
 
-### 26- Where can I download a Switch emulator?
+### 25- Where can I download a Switch emulator?
 
 ```
 ⚠ Yuzu has been taken down.
@@ -318,13 +311,13 @@ You will also need product keys for them to work (tutorial included): https://th
 Want to mod your Switch games? (useful for changing UI prompts to Xbox or PS controller): https://gamebanana.com/search?_sOrder=best_match&_sSearchString=controller&_idGameRow=7617
 ```
 
-### 27- Where can I download and play Minecraft for free?
+### 26- Where can I download and play Minecraft for free?
 
 ```
 Use: https://github.com/rePublic-Studios/rPLauncher   ⚠ I don't know if multiplayer is possible or not with these versions.
 ```
 
-### 28- I need a working and unrestricted version of Macro Recorder
+### 27- I need a working and unrestricted version of Macro Recorder
 
 NOTE: This could be called "an exclusive".
 
@@ -332,7 +325,7 @@ NOTE: This could be called "an exclusive".
 Use: https://archive.org/details/macro-recorder-3.0.36-portable   - then download a filecr version (whichever as long as it has the BTCR "medicine" and use that to activate this version instead)
 ```
 
-### 29- I need a working method to download spotify music
+### 28- I need a working method to download spotify music
 
 ```
 Use: https://github.com/spotDL/spotify-downloader/pull/2626
@@ -340,7 +333,7 @@ Use: https://github.com/spotDL/spotify-downloader/pull/2626
 
 NOTE: It seems the people of spotdl made some changes so you no longer need to use the API meaning you don't need spotify premium anymore after the recent privatization of API access by spotify. I haven't tried it yet.
 
-### 30- Tampermonkey/Violentmonkey userscripts
+### 29- Tampermonkey/Violentmonkey userscripts
 
 There are some for NSFW sites.
 
@@ -348,7 +341,7 @@ There are some for NSFW sites.
  Use: https://github.com/masterofobzene/UserScriptRepo  - a couple of cool userscripts to make your life less miserable.
 ```
 
-### 31- I want to learn how to search on google or google proxies
+### 30- I want to learn how to search on google or google proxies
 
 Most people doesn't even know they can use negative words (-ebay -amazon) to avoid trash results.
 
@@ -356,14 +349,14 @@ Most people doesn't even know they can use negative words (-ebay -amazon) to avo
 Use: https://quickref.me/google-search.html
 ```
 
-### 32- Is there an app to do 2FA without using my phone?
+### 31- Is there an app to do 2FA without using my phone?
 
 ```
 Use: https://github.com/timokoessler/2FAGuard      open source 2 factor authenticator on PC.
 Use: https://gitlab.gnome.org/World/Authenticator      open source LINUX 2 factor authenticator on PC.
 ```
 
-### 33- Where can I get native linux versions of mainstream games?
+### 32- Where can I get native linux versions of mainstream games?
 
 NOTE: You shouldn't be using linux unless your hardware is not enough for a good old Windows 10. Linux became a "launcher" for Windows apps since it doesn't have proper software and never will. [Read](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/linux.md)
 
@@ -372,7 +365,7 @@ Use: https://archive.org/details/native-linux-games-collection   ⚠️ you will
 Use: https://forum.torrminatorr.com/viewforum.php?f=19  ⚠️ you will need to create an account at Torrminatorr to see the contents.
 ```
 
-### 34- I want to make some deepfakes of pics and videos, what can I use?
+### 33- I want to make some deepfakes of pics and videos, what can I use?
 
 ```
 Use: https://github.com/VisoMasterFusion/VisoMaster-Fusion      Face changer, very accurate in frontal faces.⚠ DO NOT UPLOAD FAKES OF PEOPLE TO INTERNET.
@@ -382,19 +375,26 @@ NOTE: ⚠ For fakers out there, WAN (video generation) will increase your electr
 Be adviced that video generation uses a lots of energy.
 Stable diffusion (image generation) and this app (Visomaster) will not impact that much on your bill but still be cautious.
 
-### 35- I want to use AI voice to make videos, what can I use?
+### 34- I want to use AI voice to make videos, what can I use?
 
 ```
 Use: https://github.com/masterofobzene/ChatterboxToolkitUI   ⚠ DO NOT UPLOAD FAKES OF PEOPLE TO INTERNET.
 ```
 
-### 36- I read that there is a "hypervisor" crack for games now, what is it?
+### 35- I read that there is a "hypervisor" crack for games now, what is it?
 
 ```
 READ: https://www.reddit.com/r/PiratedGames/comments/1s1vnkc/deep_dive_what_is_hypervisor_how_does_it_work/
 ```
 
 [TL;DR version](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/HV.md)
+
+### 36- Any IDM (internet download manager) alternatives?
+
+```
+Use: https://hydra.javad.dev/#download   Awesome IDM open source clone with video download capabilities!
+Use: https://misterdownloadmanager.com/  Awesome IDM open source clone with video download capabilities!
+```
 
 <br>
 <br>
@@ -408,7 +408,7 @@ READ: https://www.reddit.com/r/PiratedGames/comments/1s1vnkc/deep_dive_what_is_h
 
 ### 👁‍🗨 Minimal setup for privacy caring people to browse internet:
 
-* [Get an app firewall](https://github.com/henrypp/simplewall/releases/download/v.3.8.7/simplewall-3.8.7-setup.exe) ⭐ 9,316 | 🐛 134 | 🌐 C | 📅 2026-11-13. Not a firewall, an "app firewall". It lets you  give permission to individual executables to go to internet. A pop up will appear to ask you. TIP: unless you plan to play on multiplayer, DENY all requests for internet for all games you install, if you have problems you can always allow them easily. You will be scared to see how games are being used to get user data and try to connect even before the user accepts their terms.
+* [Get an app firewall](https://github.com/henrypp/simplewall/releases/download/v.3.8.7/simplewall-3.8.7-setup.exe) ⭐ 9,324 | 🐛 135 | 🌐 C | 📅 2026-11-13. Not a firewall, an "app firewall". It lets you  give permission to individual executables to go to internet. A pop up will appear to ask you. TIP: unless you plan to play on multiplayer, DENY all requests for internet for all games you install, if you have problems you can always allow them easily. You will be scared to see how games are being used to get user data and try to connect even before the user accepts their terms.
 
 * Use [Librewolf](https://librewolf.net/installation/) instead of Firefox. Don't use any other browser except if you use tor browser (but using tor as a main browser will get you 80% internet "broken").
 
@@ -461,4 +461,4 @@ READ: https://www.reddit.com/r/PiratedGames/comments/1s1vnkc/deep_dive_what_is_h
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
