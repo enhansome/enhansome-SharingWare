@@ -37,8 +37,6 @@ If you know a link, go to the "issues" section and post it with a brief descript
 
 ### INDEX (CTRL+F to search for a word):
 
-You're right, and I'm sorry. The entries 26 to 35 were in your original list, but I only have the topic summaries of them, not the original links. I can't rebuild the piracy links, so this index uses the topic names and includes links only for the legitimate tools.
-
 # Index
 
 1. [Spotify has ads, how to remove them?](#1--spotify-has-ads-how-to-remove-them)
@@ -89,7 +87,7 @@ No more mobile cracks I'm afraid: https://www.reddit.com/r/revancedapp/comments/
 If you use the web version just use ublock origins and you are done! (good for android phones firefox+ublock)
 ```
 
-[MY ADVICE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/spoti) ⭐ 212 | 🐛 0 | 📅 2026-11-16
+[MY ADVICE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/spoti) ⭐ 212 | 🐛 0 | 📅 2026-11-17
 
 ### 2- Youtube + ad blocker + sponsorblock (android & PC)
 
@@ -118,7 +116,7 @@ Use: https://fitgirl-repacks.site/     -mostly indie, girly and dumb games. Expe
 
 [WHY ARE GAMES SO BAD LATELY, DAD? -LONG STORY MY BOY...](https://github.com/hijoput4/SharingWare/blob/main/OTHERS/AI-CHAT.md)
 
-[READ MORE ABOUT FITGIRL'S REPACKS](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/fitgirl) ⭐ 212 | 🐛 0 | 📅 2026-11-16
+[READ MORE ABOUT FITGIRL'S REPACKS](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/fitgirl) ⭐ 212 | 🐛 0 | 📅 2026-11-17
 
 ### 4- Need to unlock DLCs on legit games or download Steam clean releases for manual cracking.
 
@@ -131,7 +129,7 @@ Use: https://github.com/KaladinDMP/ARMGDDN-Autocracker-OG-GSE to "manually apply
 OR use: https://github.com/SteamAutoCracks/Steam-auto-crack 
 ```
 
-[READ MORE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/csrinru) ⭐ 212 | 🐛 0 | 📅 2026-11-16
+[READ MORE](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/csrinru) ⭐ 212 | 🐛 0 | 📅 2026-11-17
 
 ### 5- I need console game ROMS
 
@@ -158,7 +156,7 @@ Use: https://github.com/Atmosphere-NX/Atmosphere  - Open source 'Ntendo' OS.
 Use: https://github.com/HamletDuFromage/aio-switch-updater  - Updater app (I think it is outdated by now) Requires the console "liberated".
 ```
 
-[MY ADVICE IF YOU STILL DON'T HAVE A SWITCH](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/switch) ⭐ 212 | 🐛 0 | 📅 2026-11-16
+[MY ADVICE IF YOU STILL DON'T HAVE A SWITCH](https://github.com/hijoput4/TheBubble/blob/main/OTHERS/switch) ⭐ 212 | 🐛 0 | 📅 2026-11-17
 
 ### 7- Need advanced tools for my switch games.
 
@@ -211,7 +209,7 @@ Use: https://store.rg-adguard.net/
 ### 14- Need to download a video.
 
 ```
-Use https://filecr.com/windows/internet-download-manager/?id=5992240122 to install IDM. The program has a browser extension to detect streaming videos so you can download them.
+Use: https://hydra.javad.dev/#download The program has a browser extension to detect streaming videos so you can download them.
 Use: https://github.com/yt-dlp/yt-dlp (see .15)
 ```
 
@@ -408,7 +406,7 @@ Use: https://misterdownloadmanager.com/  Awesome IDM open source clone with vide
 
 ### 👁‍🗨 Minimal setup for privacy caring people to browse internet:
 
-* [Get an app firewall](https://github.com/henrypp/simplewall/releases/download/v.3.8.7/simplewall-3.8.7-setup.exe) ⭐ 9,324 | 🐛 135 | 🌐 C | 📅 2026-11-13. Not a firewall, an "app firewall". It lets you  give permission to individual executables to go to internet. A pop up will appear to ask you. TIP: unless you plan to play on multiplayer, DENY all requests for internet for all games you install, if you have problems you can always allow them easily. You will be scared to see how games are being used to get user data and try to connect even before the user accepts their terms.
+* [Get an app firewall](https://github.com/henrypp/simplewall/releases/download/v.3.8.7/simplewall-3.8.7-setup.exe) ⭐ 9,329 | 🐛 135 | 🌐 C | 📅 2026-11-13. Not a firewall, an "app firewall". It lets you  give permission to individual executables to go to internet. A pop up will appear to ask you. TIP: unless you plan to play on multiplayer, DENY all requests for internet for all games you install, if you have problems you can always allow them easily. You will be scared to see how games are being used to get user data and try to connect even before the user accepts their terms.
 
 * Use [Librewolf](https://librewolf.net/installation/) instead of Firefox. Don't use any other browser except if you use tor browser (but using tor as a main browser will get you 80% internet "broken").
 
@@ -461,4 +459,4 @@ Use: https://misterdownloadmanager.com/  Awesome IDM open source clone with vide
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
