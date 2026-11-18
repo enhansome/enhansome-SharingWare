@@ -406,7 +406,7 @@ Use: https://misterdownloadmanager.com/  Awesome IDM open source clone with vide
 
 ### 👁‍🗨 Minimal setup for privacy caring people to browse internet:
 
-* [Get an app firewall](https://github.com/henrypp/simplewall/releases/download/v.3.8.7/simplewall-3.8.7-setup.exe) ⭐ 9,329 | 🐛 135 | 🌐 C | 📅 2026-11-13. Not a firewall, an "app firewall". It lets you  give permission to individual executables to go to internet. A pop up will appear to ask you. TIP: unless you plan to play on multiplayer, DENY all requests for internet for all games you install, if you have problems you can always allow them easily. You will be scared to see how games are being used to get user data and try to connect even before the user accepts their terms.
+* [Get an app firewall](https://github.com/henrypp/simplewall/releases/download/v.3.8.7/simplewall-3.8.7-setup.exe) ⭐ 9,336 | 🐛 135 | 🌐 C | 📅 2026-11-17. Not a firewall, an "app firewall". It lets you  give permission to individual executables to go to internet. A pop up will appear to ask you. TIP: unless you plan to play on multiplayer, DENY all requests for internet for all games you install, if you have problems you can always allow them easily. You will be scared to see how games are being used to get user data and try to connect even before the user accepts their terms.
 
 * Use [Librewolf](https://librewolf.net/installation/) instead of Firefox. Don't use any other browser except if you use tor browser (but using tor as a main browser will get you 80% internet "broken").
 
@@ -459,4 +459,4 @@ Use: https://misterdownloadmanager.com/  Awesome IDM open source clone with vide
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
